@@ -7,6 +7,8 @@
 2. php artisan serve
 
 3. localhost:8000/
+
+
 ---
 
 
